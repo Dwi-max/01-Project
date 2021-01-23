@@ -72,3 +72,64 @@ nav {
     opacity: 1;
     pointer-events: all;
 }
+
+
+/* wrap */
+
+.wrap {
+    font-family: 'Quicksand',
+        sans-serif;
+    width: 90%;
+    padding: 20px;
+    height: 100vh;
+    margin: 50px auto;
+}
+
+.wrap .creator1 {
+    display: flex;
+    padding: 20px;
+}
+
+.wrap .creator1 img {
+    margin-top: 20px;
+    border-radius: 200px;
+}
+
+.wrap .creator1 h1 {
+    margin-top: 70px;
+    margin-left: 20px;
+    border: 3px solid black;
+    height: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.wrap .creator1 button {
+    height: 40px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 120px;
+    margin-left: -115px;
+}
+
+/* Utulities */
+
+#judo {
+    margin-top: 125px;
+    margin-left: -275px;
+}
+
+#iwan {
+    margin-top: 125px;
+    margin-left: -185px;
+}
+
+#scot {
+    margin-top: 125px;
+    margin-left: -145px;
+}
